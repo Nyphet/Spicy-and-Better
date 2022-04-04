@@ -67,6 +67,7 @@ The hope is to create an overall new feeling to the Minecraft world, without rad
 - A few new achievements
 - More animals
 - More foods
+
 Many more features are included and I will expand this list accordingly, checkout the mods list below to see each feature and more in detail.
  
 ## For a better experience

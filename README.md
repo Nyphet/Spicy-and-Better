@@ -98,7 +98,6 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [ArmorPoints++](https://www.curseforge.com/minecraft/mc-mods/armorpoints)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Auto Planting Forests](https://www.curseforge.com/minecraft/mc-mods/auto-plant)
-- [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap)
 - [Better Azalea](https://www.curseforge.com/minecraft/mc-mods/better-azalea)
 - [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 - [Better Conduit Placement](https://www.curseforge.com/minecraft/mc-mods/better-conduit-placement)

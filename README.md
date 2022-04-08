@@ -122,8 +122,6 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [Copper Drops](https://www.curseforge.com/minecraft/mc-mods/copper-drops)
 - [Copperized](https://www.curseforge.com/minecraft/mc-mods/copperized)
 - [Corail Woodcutter](https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter)
-- [Craft Saddles](https://www.curseforge.com/minecraft/mc-mods/craft-saddles)
-- [Craftable Chainmail Armor](https://www.curseforge.com/minecraft/mc-mods/craftable-chainmail-armor)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 - [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - [Curio of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying)

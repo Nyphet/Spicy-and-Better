@@ -210,9 +210,9 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [Zombie Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)
 
 ## TODOs
-- Add YUNG's Better Strongholds, YUNG's Better Mineshafts, Just Enough Piglin Bartering, Better Than Mending, Path Under Gates when (and if) available for 1.18.2
 - Add animations to Eating Animation for all extra foods
 - Configure Drink it! to include all extra drinks
+- Add YUNG's Better Strongholds, YUNG's Better Mineshafts, Just Enough Piglin Bartering, Better Than Mending, Path Under Gates when (and if) available for 1.18.2
 - Vertical Slabs
 - Rename Tinted Connecting Glass to Tinted Glass (including localization)
 - Add a backport of 1.19 when it will be officialy released

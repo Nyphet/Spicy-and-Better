@@ -1,6 +1,7 @@
-# Spiced up Cream
+# Spicy & Better
 A light Vanilla+ modpack to spice up the vanilla experience, without radically changing it.  
-Originally I wanted to call it **Spiced up Vanilla**, but due to CurseForge naming politics that prevented me from using **Vanilla** in the name, I opted for **Spiced up Cream**.
+Originally I wanted to call it **Spiced up Vanilla**, but due to CurseForge naming politics that prevented me from using **Vanilla** in the name, I opted for **Spiced up Cream**.  
+After some days I decided to change it again in **Spicy & Better** because the previous name was meh.
 
 ## The idea
 I always thought Minecraft Vanilla was too boring and somehow lacking in certain aspects.  
@@ -9,7 +10,15 @@ For this reason, most mods here included are QoL or add small tweaks to the worl
 There are also some new biomes, mobs and foods.  
 The hope is to create an overall new feeling to the Minecraft world, without radically changing it (and hopefully keep up with new versions).
 
+## License and right of use
+Feel free to use this modpack for any video or to host a server, just be sure to give credit and possibly link [here](https://github.com/Nyphet/Spicy-and-Better#readme) to credit also the mods.  
+This modpack is published under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/).
+
+## Issues
+For any issue please refer to the [issues tab](https://github.com/Nyphet/Spicy-and-Better/issues).
+
 ## Tips
+### Tips refer to an older version, changes will arrive soon!
 - When creating a Nether portal, be sure to place 4 crying obsidian blocks in a 15 block radius to prevent the Nether to corrupt the Overworld!
 - Keep the sounds on!
 - Don't worry about collecting all the sapling and planting them, new trees will grow automatically if you leave them on the ground!
@@ -19,6 +28,7 @@ The hope is to create an overall new feeling to the Minecraft world, without rad
 - Right click on a fully grown crop to harvest it without eradicating it from the ground!
 
 ## List of major features
+### List of major features refers to an older version, changes will arrive soon!
 - Better in-game GUI
 - Block of charcoal
 - Ropes: climb upwards and downwards with ease
@@ -68,21 +78,23 @@ The hope is to create an overall new feeling to the Minecraft world, without rad
 - More animals
 - More foods
 
-Many more features are included and I will expand this list accordingly, checkout the mods list below to see each feature and more in detail.
+Many more features are included and I will expand this list accordingly, check out the mods list below to see each feature in more detail.
  
 ## For a better experience
-- [Optifine] with [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders) (BSL Shaders pack is already included but won't work without Optifine)
 - [Optifine]
-- These resource packs: [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations), [Better Wolves](https://www.curseforge.com/minecraft/texture-packs/better-wolves), [Better Sheep](https://www.curseforge.com/minecraft/texture-packs/better-sheep), [Better Pigs](https://www.curseforge.com/minecraft/texture-packs/better-pigs), [Better Cows](https://www.curseforge.com/minecraft/texture-packs/better-cows) and [Better Chickens](https://www.curseforge.com/minecraft/texture-packs/better-chickens) (All these resource packs are already included)
+- [BSL Shaders]
+- These resource packs: [Fresh Animations], [Better Wolves], [Better Sheep](https://www.curseforge.com/minecraft/texture-packs/better-sheep), [Better Pigs](https://www.curseforge.com/minecraft/texture-packs/better-pigs), [Better Cows](https://www.curseforge.com/minecraft/texture-packs/better-cows), [Better Chickens](https://www.curseforge.com/minecraft/texture-packs/better-chickens) and [Ore Variants](https://www.curseforge.com/minecraft/texture-packs/ore-variants) (All these resource packs are already included).  
+Be sure to put [Fresh Animations] under the Betters resource packs otherwise those animals won't be rendered correctly!
 - Your favorite resource pack for blocks
+### [BSL Shaders] and the Betters resource packs won't work without [Optifine]!
 
 ## Mods
 - [A Block of Charcoal](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
 - [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
 - [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
 - [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [Aquacolture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 - [ArmorPoints++](https://www.curseforge.com/minecraft/mc-mods/armorpoints)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Auto Planting Forests](https://www.curseforge.com/minecraft/mc-mods/auto-plant)
@@ -98,7 +110,7 @@ Many more features are included and I will expand this list accordingly, checkou
 - [Cake Chomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps)
 - [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
-- [Wind Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
 - [Companion](https://www.curseforge.com/minecraft/mc-mods/companion)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
@@ -106,12 +118,14 @@ Many more features are included and I will expand this list accordingly, checkou
 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm)
 - [Connectible Chains](https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge)
 - [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Copper Drops](https://www.curseforge.com/minecraft/mc-mods/copper-drops)
 - [Copperized](https://www.curseforge.com/minecraft/mc-mods/copperized)
 - [Corail Woodcutter](https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter)
 - [Craft Saddles](https://www.curseforge.com/minecraft/mc-mods/craft-saddles)
-- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - [Craftable Chainmail Armor](https://www.curseforge.com/minecraft/mc-mods/craftable-chainmail-armor)
+- [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - [Curio of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying)
 - [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
 - [Cycle Painting](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
@@ -131,7 +145,6 @@ Many more features are included and I will expand this list accordingly, checkou
 - [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
 - [Enchantments Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - [Enhanced Snowmen](https://www.curseforge.com/minecraft/mc-mods/enhancedsnowman)
-- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 - [Extended Bone Meal](https://www.curseforge.com/minecraft/mc-mods/extended-bone-meal)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
@@ -142,10 +155,11 @@ Many more features are included and I will expand this list accordingly, checkou
 - [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
 - [Fish On The Line](https://www.curseforge.com/minecraft/mc-mods/fish-on-the-line)
 - [Fixed Anvil Repair Cost](https://www.curseforge.com/minecraft/mc-mods/fixed-anvil-repair-cost)
-- [GUI Clock](https://www.curseforge.com/minecraft/mc-mods/gui-clock)
 - [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
 - [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+- [GUI Clock](https://www.curseforge.com/minecraft/mc-mods/gui-clock)
 - [Harvest with ease](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease)
+- [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book)
 - [Hoe Tweaks](https://www.curseforge.com/minecraft/mc-mods/hoe-tweaks)
 - [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-forge)
 - [Improved Mount HUD](https://www.curseforge.com/minecraft/mc-mods/improved-mount-hud-forge)
@@ -153,9 +167,9 @@ Many more features are included and I will expand this list accordingly, checkou
 - [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 - [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
 - [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
 - [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
-- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge)
 - [JEED](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
@@ -173,10 +187,16 @@ Many more features are included and I will expand this list accordingly, checkou
 - [Nether Portal Spread](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 - [PeanutCraft](https://www.curseforge.com/minecraft/mc-mods/peanutcraft)
+- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)
+- [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [Regrowth](https://www.curseforge.com/minecraft/mc-mods/regrowth)
+- [Revamped Wolf](https://www.curseforge.com/minecraft/mc-mods/revampedwolf)
 - [Rotten Leather](https://www.curseforge.com/minecraft/mc-mods/rotten-leather)
+- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+- [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 - [Skeleton Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn)
 - [Snow! Real Magic!](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic)
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [Step](https://www.curseforge.com/minecraft/mc-mods/step)
 - [Stronger Farmland](https://www.curseforge.com/minecraft/mc-mods/stronger-farmland)
@@ -193,12 +213,20 @@ Many more features are included and I will expand this list accordingly, checkou
 - [Zombie Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)
 
 ## TODOs
-- Add YUNG's Better Strongholds, YUNG's Better Mineshafts, Just Enough Piglin Bartering, Better Than Mending, Path Under Gates when available for 1.18.2
+- Add YUNG's Better Strongholds, YUNG's Better Mineshafts, Just Enough Piglin Bartering, Better Than Mending, Path Under Gates when (and if) available for 1.18.2
 - Add animations to Eating Animation for all extra foods
 - Configure Drink it! to include all extra drinks
-- Add a few recipes with CraftTweaker and some other tweaks
-- Remove some items with JEITweaker
+- Vertical Slabs
+- Rename Tinted Connecting Glass to Tinted Glass (including localization)
 - Add a backport of 1.19 when it will be officialy released
 - Port to 1.19 when it will be officialy released and the mods included will port
 
+## Known problems
+- Wolf armors are not visibile once equipped if [Better Wolves] is enabled.
+- Horses wearing the Copper Horse Armor don't render correctly (for this reason such armor is removed from crafting and JEI).
+- [Fresh Animations] causes some rendering problems when some mobs collide on death or move while wearing armors.
+
 [Optifine]: https://www.optifine.net/downloads
+[BSL Shaders]: https://www.curseforge.com/minecraft/customization/bsl-shaders
+[Fresh Animations]: https://www.curseforge.com/minecraft/texture-packs/fresh-animations
+[Better Wolves]: https://www.curseforge.com/minecraft/texture-packs/better-wolves

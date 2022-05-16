@@ -79,7 +79,7 @@ For any issue please refer to the [issues tab](https://github.com/Nyphet/Spicy-a
 - More foods
 
 Many more features are included and I will expand this list accordingly, check out the mods list below to see each feature in more detail.
- 
+
 ## For a better experience
 - [Optifine]
 - [BSL Shaders]
@@ -90,6 +90,7 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 
 ## Mods
 - [A Block of Charcoal](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
+- [Actually Useful Smithing Table](https://www.curseforge.com/minecraft/mc-mods/actually-useful-smithing-table)
 - [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
 - [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
@@ -111,6 +112,7 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Companion](https://www.curseforge.com/minecraft/mc-mods/companion)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 - [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
@@ -172,6 +174,7 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [JEP](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
 - [JER](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [Just Vertical Slabs](https://www.curseforge.com/minecraft/mc-mods/just-vertical-slabs)
 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
 - [Lava Clear View](https://www.curseforge.com/minecraft/mc-mods/lava-clear-view)
 - [Lava Walker](https://www.curseforge.com/minecraft/mc-mods/lava-walker)
@@ -183,10 +186,12 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Nether Portal Spread](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [Path to Dirt](https://www.curseforge.com/minecraft/mc-mods/path-to-dirt)
 - [PeanutCraft](https://www.curseforge.com/minecraft/mc-mods/peanutcraft)
 - [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)
 - [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [Regrowth](https://www.curseforge.com/minecraft/mc-mods/regrowth)
+- [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [Revamped Wolf](https://www.curseforge.com/minecraft/mc-mods/revampedwolf)
 - [Rotten Leather](https://www.curseforge.com/minecraft/mc-mods/rotten-leather)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
@@ -197,7 +202,6 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [Step](https://www.curseforge.com/minecraft/mc-mods/step)
 - [Stronger Farmland](https://www.curseforge.com/minecraft/mc-mods/stronger-farmland)
-- [Structures' Compass](https://www.curseforge.com/minecraft/mc-mods/structures-compass)
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
 - [Vanilla Cookbook](https://www.curseforge.com/minecraft/mc-mods/vanilla-cookbook)
@@ -207,14 +211,17 @@ Be sure to put [Fresh Animations] under the Betters resource packs otherwise tho
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
 - [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
 - [Wool Tweaks](https://www.curseforge.com/minecraft/mc-mods/wool-tweaks)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
 - [Zombie Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)
 
 ## TODOs
 - Add animations to Eating Animation for all extra foods
 - Configure Drink it! to include all extra drinks
-- Add YUNG's Better Strongholds, YUNG's Better Mineshafts, Just Enough Piglin Bartering, Better Than Mending, Path Under Gates when (and if) available for 1.18.2
-- Vertical Slabs
-- Rename Tinted Connecting Glass to Tinted Glass (including localization)
+- Add Just Enough Piglin Bartering, Better Than Mending, Path Under Gates when (and if) available for 1.18.2
 - Add a backport of 1.19 when it will be officialy released
 - Port to 1.19 when it will be officialy released and the mods included will port
 
